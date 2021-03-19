@@ -1,0 +1,3 @@
+videoclub\IVideo.class
+videoclub\IVideoClubService.class
+videoclub\ClientVideoClubService.class
